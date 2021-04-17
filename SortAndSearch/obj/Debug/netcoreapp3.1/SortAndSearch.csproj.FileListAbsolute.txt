@@ -1,0 +1,13 @@
+F:\CSharp Programming\SortAndSearch\bin\Debug\netcoreapp3.1\SortAndSearch.exe
+F:\CSharp Programming\SortAndSearch\bin\Debug\netcoreapp3.1\SortAndSearch.deps.json
+F:\CSharp Programming\SortAndSearch\bin\Debug\netcoreapp3.1\SortAndSearch.runtimeconfig.json
+F:\CSharp Programming\SortAndSearch\bin\Debug\netcoreapp3.1\SortAndSearch.runtimeconfig.dev.json
+F:\CSharp Programming\SortAndSearch\bin\Debug\netcoreapp3.1\SortAndSearch.dll
+F:\CSharp Programming\SortAndSearch\bin\Debug\netcoreapp3.1\SortAndSearch.pdb
+F:\CSharp Programming\SortAndSearch\obj\Debug\netcoreapp3.1\SortAndSearch.csprojAssemblyReference.cache
+F:\CSharp Programming\SortAndSearch\obj\Debug\netcoreapp3.1\SortAndSearch.AssemblyInfoInputs.cache
+F:\CSharp Programming\SortAndSearch\obj\Debug\netcoreapp3.1\SortAndSearch.AssemblyInfo.cs
+F:\CSharp Programming\SortAndSearch\obj\Debug\netcoreapp3.1\SortAndSearch.csproj.CoreCompileInputs.cache
+F:\CSharp Programming\SortAndSearch\obj\Debug\netcoreapp3.1\SortAndSearch.dll
+F:\CSharp Programming\SortAndSearch\obj\Debug\netcoreapp3.1\SortAndSearch.pdb
+F:\CSharp Programming\SortAndSearch\obj\Debug\netcoreapp3.1\SortAndSearch.genruntimeconfig.cache

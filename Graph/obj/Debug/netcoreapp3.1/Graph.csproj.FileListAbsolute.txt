@@ -1,0 +1,13 @@
+F:\CSharp Programming\Graph\bin\Debug\netcoreapp3.1\Graph.exe
+F:\CSharp Programming\Graph\bin\Debug\netcoreapp3.1\Graph.deps.json
+F:\CSharp Programming\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.json
+F:\CSharp Programming\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.dev.json
+F:\CSharp Programming\Graph\bin\Debug\netcoreapp3.1\Graph.dll
+F:\CSharp Programming\Graph\bin\Debug\netcoreapp3.1\Graph.pdb
+F:\CSharp Programming\Graph\obj\Debug\netcoreapp3.1\Graph.csprojAssemblyReference.cache
+F:\CSharp Programming\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfoInputs.cache
+F:\CSharp Programming\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfo.cs
+F:\CSharp Programming\Graph\obj\Debug\netcoreapp3.1\Graph.csproj.CoreCompileInputs.cache
+F:\CSharp Programming\Graph\obj\Debug\netcoreapp3.1\Graph.dll
+F:\CSharp Programming\Graph\obj\Debug\netcoreapp3.1\Graph.pdb
+F:\CSharp Programming\Graph\obj\Debug\netcoreapp3.1\Graph.genruntimeconfig.cache

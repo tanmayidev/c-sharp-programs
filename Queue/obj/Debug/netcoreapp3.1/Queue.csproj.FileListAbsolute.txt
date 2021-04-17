@@ -1,0 +1,13 @@
+F:\CSharp Programming\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+F:\CSharp Programming\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+F:\CSharp Programming\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+F:\CSharp Programming\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+F:\CSharp Programming\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+F:\CSharp Programming\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+F:\CSharp Programming\Queue\obj\Debug\netcoreapp3.1\Queue.csprojAssemblyReference.cache
+F:\CSharp Programming\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+F:\CSharp Programming\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+F:\CSharp Programming\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+F:\CSharp Programming\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+F:\CSharp Programming\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
+F:\CSharp Programming\Queue\obj\Debug\netcoreapp3.1\Queue.genruntimeconfig.cache

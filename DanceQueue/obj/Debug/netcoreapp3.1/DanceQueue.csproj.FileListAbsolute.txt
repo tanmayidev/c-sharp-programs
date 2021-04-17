@@ -1,0 +1,13 @@
+F:\CSharp Programming\DanceQueue\bin\Debug\netcoreapp3.1\DanceQueue.exe
+F:\CSharp Programming\DanceQueue\bin\Debug\netcoreapp3.1\DanceQueue.deps.json
+F:\CSharp Programming\DanceQueue\bin\Debug\netcoreapp3.1\DanceQueue.runtimeconfig.json
+F:\CSharp Programming\DanceQueue\bin\Debug\netcoreapp3.1\DanceQueue.runtimeconfig.dev.json
+F:\CSharp Programming\DanceQueue\bin\Debug\netcoreapp3.1\DanceQueue.dll
+F:\CSharp Programming\DanceQueue\bin\Debug\netcoreapp3.1\DanceQueue.pdb
+F:\CSharp Programming\DanceQueue\obj\Debug\netcoreapp3.1\DanceQueue.csprojAssemblyReference.cache
+F:\CSharp Programming\DanceQueue\obj\Debug\netcoreapp3.1\DanceQueue.AssemblyInfoInputs.cache
+F:\CSharp Programming\DanceQueue\obj\Debug\netcoreapp3.1\DanceQueue.AssemblyInfo.cs
+F:\CSharp Programming\DanceQueue\obj\Debug\netcoreapp3.1\DanceQueue.csproj.CoreCompileInputs.cache
+F:\CSharp Programming\DanceQueue\obj\Debug\netcoreapp3.1\DanceQueue.dll
+F:\CSharp Programming\DanceQueue\obj\Debug\netcoreapp3.1\DanceQueue.pdb
+F:\CSharp Programming\DanceQueue\obj\Debug\netcoreapp3.1\DanceQueue.genruntimeconfig.cache

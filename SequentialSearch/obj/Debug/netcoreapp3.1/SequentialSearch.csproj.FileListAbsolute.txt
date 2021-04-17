@@ -1,0 +1,13 @@
+F:\CSharp Programming\SequentialSearch\bin\Debug\netcoreapp3.1\SequentialSearch.exe
+F:\CSharp Programming\SequentialSearch\bin\Debug\netcoreapp3.1\SequentialSearch.deps.json
+F:\CSharp Programming\SequentialSearch\bin\Debug\netcoreapp3.1\SequentialSearch.runtimeconfig.json
+F:\CSharp Programming\SequentialSearch\bin\Debug\netcoreapp3.1\SequentialSearch.runtimeconfig.dev.json
+F:\CSharp Programming\SequentialSearch\bin\Debug\netcoreapp3.1\SequentialSearch.dll
+F:\CSharp Programming\SequentialSearch\bin\Debug\netcoreapp3.1\SequentialSearch.pdb
+F:\CSharp Programming\SequentialSearch\obj\Debug\netcoreapp3.1\SequentialSearch.csprojAssemblyReference.cache
+F:\CSharp Programming\SequentialSearch\obj\Debug\netcoreapp3.1\SequentialSearch.AssemblyInfoInputs.cache
+F:\CSharp Programming\SequentialSearch\obj\Debug\netcoreapp3.1\SequentialSearch.AssemblyInfo.cs
+F:\CSharp Programming\SequentialSearch\obj\Debug\netcoreapp3.1\SequentialSearch.csproj.CoreCompileInputs.cache
+F:\CSharp Programming\SequentialSearch\obj\Debug\netcoreapp3.1\SequentialSearch.dll
+F:\CSharp Programming\SequentialSearch\obj\Debug\netcoreapp3.1\SequentialSearch.pdb
+F:\CSharp Programming\SequentialSearch\obj\Debug\netcoreapp3.1\SequentialSearch.genruntimeconfig.cache

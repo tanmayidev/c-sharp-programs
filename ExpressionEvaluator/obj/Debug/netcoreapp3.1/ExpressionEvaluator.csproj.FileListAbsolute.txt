@@ -1,0 +1,13 @@
+F:\CSharp Programming\ExpressionEvaluator\bin\Debug\netcoreapp3.1\ExpressionEvaluator.exe
+F:\CSharp Programming\ExpressionEvaluator\bin\Debug\netcoreapp3.1\ExpressionEvaluator.deps.json
+F:\CSharp Programming\ExpressionEvaluator\bin\Debug\netcoreapp3.1\ExpressionEvaluator.runtimeconfig.json
+F:\CSharp Programming\ExpressionEvaluator\bin\Debug\netcoreapp3.1\ExpressionEvaluator.runtimeconfig.dev.json
+F:\CSharp Programming\ExpressionEvaluator\bin\Debug\netcoreapp3.1\ExpressionEvaluator.dll
+F:\CSharp Programming\ExpressionEvaluator\bin\Debug\netcoreapp3.1\ExpressionEvaluator.pdb
+F:\CSharp Programming\ExpressionEvaluator\obj\Debug\netcoreapp3.1\ExpressionEvaluator.csprojAssemblyReference.cache
+F:\CSharp Programming\ExpressionEvaluator\obj\Debug\netcoreapp3.1\ExpressionEvaluator.AssemblyInfoInputs.cache
+F:\CSharp Programming\ExpressionEvaluator\obj\Debug\netcoreapp3.1\ExpressionEvaluator.AssemblyInfo.cs
+F:\CSharp Programming\ExpressionEvaluator\obj\Debug\netcoreapp3.1\ExpressionEvaluator.csproj.CoreCompileInputs.cache
+F:\CSharp Programming\ExpressionEvaluator\obj\Debug\netcoreapp3.1\ExpressionEvaluator.dll
+F:\CSharp Programming\ExpressionEvaluator\obj\Debug\netcoreapp3.1\ExpressionEvaluator.pdb
+F:\CSharp Programming\ExpressionEvaluator\obj\Debug\netcoreapp3.1\ExpressionEvaluator.genruntimeconfig.cache

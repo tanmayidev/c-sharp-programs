@@ -1,0 +1,13 @@
+F:\CSharp Programming\DictionaryIP\bin\Debug\netcoreapp3.1\DictionaryIP.exe
+F:\CSharp Programming\DictionaryIP\bin\Debug\netcoreapp3.1\DictionaryIP.deps.json
+F:\CSharp Programming\DictionaryIP\bin\Debug\netcoreapp3.1\DictionaryIP.runtimeconfig.json
+F:\CSharp Programming\DictionaryIP\bin\Debug\netcoreapp3.1\DictionaryIP.runtimeconfig.dev.json
+F:\CSharp Programming\DictionaryIP\bin\Debug\netcoreapp3.1\DictionaryIP.dll
+F:\CSharp Programming\DictionaryIP\bin\Debug\netcoreapp3.1\DictionaryIP.pdb
+F:\CSharp Programming\DictionaryIP\obj\Debug\netcoreapp3.1\DictionaryIP.csprojAssemblyReference.cache
+F:\CSharp Programming\DictionaryIP\obj\Debug\netcoreapp3.1\DictionaryIP.AssemblyInfoInputs.cache
+F:\CSharp Programming\DictionaryIP\obj\Debug\netcoreapp3.1\DictionaryIP.AssemblyInfo.cs
+F:\CSharp Programming\DictionaryIP\obj\Debug\netcoreapp3.1\DictionaryIP.csproj.CoreCompileInputs.cache
+F:\CSharp Programming\DictionaryIP\obj\Debug\netcoreapp3.1\DictionaryIP.dll
+F:\CSharp Programming\DictionaryIP\obj\Debug\netcoreapp3.1\DictionaryIP.pdb
+F:\CSharp Programming\DictionaryIP\obj\Debug\netcoreapp3.1\DictionaryIP.genruntimeconfig.cache

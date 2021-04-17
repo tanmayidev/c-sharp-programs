@@ -1,0 +1,13 @@
+F:\CSharp Programming\LibraryManagement\bin\Debug\netcoreapp3.1\LibraryManagement.exe
+F:\CSharp Programming\LibraryManagement\bin\Debug\netcoreapp3.1\LibraryManagement.deps.json
+F:\CSharp Programming\LibraryManagement\bin\Debug\netcoreapp3.1\LibraryManagement.runtimeconfig.json
+F:\CSharp Programming\LibraryManagement\bin\Debug\netcoreapp3.1\LibraryManagement.runtimeconfig.dev.json
+F:\CSharp Programming\LibraryManagement\bin\Debug\netcoreapp3.1\LibraryManagement.dll
+F:\CSharp Programming\LibraryManagement\bin\Debug\netcoreapp3.1\LibraryManagement.pdb
+F:\CSharp Programming\LibraryManagement\obj\Debug\netcoreapp3.1\LibraryManagement.csprojAssemblyReference.cache
+F:\CSharp Programming\LibraryManagement\obj\Debug\netcoreapp3.1\LibraryManagement.AssemblyInfoInputs.cache
+F:\CSharp Programming\LibraryManagement\obj\Debug\netcoreapp3.1\LibraryManagement.AssemblyInfo.cs
+F:\CSharp Programming\LibraryManagement\obj\Debug\netcoreapp3.1\LibraryManagement.csproj.CoreCompileInputs.cache
+F:\CSharp Programming\LibraryManagement\obj\Debug\netcoreapp3.1\LibraryManagement.dll
+F:\CSharp Programming\LibraryManagement\obj\Debug\netcoreapp3.1\LibraryManagement.pdb
+F:\CSharp Programming\LibraryManagement\obj\Debug\netcoreapp3.1\LibraryManagement.genruntimeconfig.cache

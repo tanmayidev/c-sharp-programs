@@ -1,0 +1,13 @@
+F:\CSharp Programming\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+F:\CSharp Programming\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+F:\CSharp Programming\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+F:\CSharp Programming\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+F:\CSharp Programming\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+F:\CSharp Programming\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+F:\CSharp Programming\Stack\obj\Debug\netcoreapp3.1\Stack.csprojAssemblyReference.cache
+F:\CSharp Programming\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+F:\CSharp Programming\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+F:\CSharp Programming\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+F:\CSharp Programming\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+F:\CSharp Programming\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+F:\CSharp Programming\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache
